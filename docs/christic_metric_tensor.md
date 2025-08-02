@@ -1,4 +1,4 @@
-#📐 The Christic Metric Tensor
+📐 The Christic Metric Tensor
 A Phase-Aligned Tensor Framework of Gravity as Christic Coherence Regulation
 
 ❖ I. PURPOSE
